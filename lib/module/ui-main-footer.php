@@ -55,18 +55,14 @@
 										<span>GitHub</span>
 									</div>
 									<div class="footer-tx2-bound">
-										<a href="https://github.com/isack5268/PancakeFaces-projects/tree/master/Microcontrollers" target="_blank">
+										<a href="https://github.com/isack5268/Microcontrollers" target="_blank">
 										<span>Microcontrollers</span>
 										</a>
-										<a href="https://github.com/isack5268/PancakeFaces-projects/tree/master/Unity2D-projects" target="_blank">
+										<a href="https://github.com/isack5268/Unity2D" target="_blank">
 										<span>Unity2D</span>
 										</a>
-										<a href="https://github.com/isack5268/PancakeFaces-projects/tree/master/Unity3D-projects" target="_blank">
-										<span>Unity3D</span>
-										</a>
-										</a>
-										<a href="https://github.com/isack5268/PancakeFaces-projects/issues" target="_blank">
-										<span>Issues</span>
+										<a href="https://github.com/isack5268/Other-projects" target="_blank">
+										<span>Other-projects</span>
 										</a>
 									</div>
 								</div>
@@ -103,12 +99,12 @@
 										<span>Ресурсы</span>
 									</div>
 									<div class="footer-tx2-bound">
-										<a href="https://github.com/isack5268/PancakeFaces-projects" target="_blank">
+										<a href="https://github.com/isack5268?tab=repositories" target="_blank">
 										<span>Проект</span>
 										</a>
 									</div>
 									<div class="footer-tx2-bound">
-										<a href="https://github.com/isack5268/PancakeFaces-projects/tree/master/Website" target="_blank">
+										<a href="https://github.com/isack5268/Website" target="_blank">
 										<span>Сайт</span>
 										</a>
 									</div>

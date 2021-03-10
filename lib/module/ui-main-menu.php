@@ -129,7 +129,7 @@
 				<span>FAQs</span>
 			</div>
 			</a>
-			<a href='https://github.com/isack5268/Unity2D-projects' target="_blank">
+			<a href='https://github.com/isack5268?tab=repositories' target="_blank">
 			<div class="menu-btn-select">
 				<span>GitHub</span>
 			</div>
