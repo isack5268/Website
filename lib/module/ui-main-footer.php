@@ -62,7 +62,7 @@
 										<span>Unity2D</span>
 										</a>
 										<a href="https://github.com/isack5268/Other-projects" target="_blank">
-										<span>Other-projects</span>
+										<span>OtherProjects</span>
 										</a>
 									</div>
 								</div>
