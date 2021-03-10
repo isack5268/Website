@@ -363,7 +363,7 @@
 									<div class="specbox-ico-part" style="background: url('/img/icons/list/gpu.png') no-repeat center;">
 									</div>
 									<div class="specbox-tx1-part">
-										 <span>GeForce RTX 3090</span>
+										 <span>GeForce RTX 2070 Super</span>
 									</div>
 								</div>
 								<div class="specbox-con-part darkmode-invert">
