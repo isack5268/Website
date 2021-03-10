@@ -102,7 +102,7 @@
 									<div class="specbox-ico-part" style="background: url('/img/icons/list/gpu.png') no-repeat center;">
 									</div>
 									<div class="specbox-tx1-part">
-										 <span>Radeon RX 560 (4GB)</span>
+										 <span>Radeon RX 560</span>
 									</div>
 								</div>
 								<div class="specbox-con-part darkmode-invert">
@@ -337,7 +337,10 @@
 						</div>
 						<div class='user-tx3-content darkmode-txt'>
 							<span>
-
+							 Присоединился к проекту 10 марта 2021 года.<br>
+							 Люблю пиво, игры и кино. Поэтому и пошёл учиться на кинохудожника. 
+							 Никогда нету денег, но всегда есть амбиции и какие-то стремления. 
+							 Хорошо владею фотошопом, и пытаюсь в монтаж и съемку.
 							</span>
 						</div>
 						<div class="user-con-specsheet">
@@ -353,28 +356,28 @@
 									<div class="specbox-ico-part" style="background: url('/img/icons/list/cpu.png') no-repeat center;">
 									</div>
 									<div class="specbox-tx1-part">
-										 <span></span>
+										 <span>Intel Core i7 6700k (4.0GHz)</span>
 									</div>
 								</div>
 								<div class="specbox-con-part darkmode-invert">
 									<div class="specbox-ico-part" style="background: url('/img/icons/list/gpu.png') no-repeat center;">
 									</div>
 									<div class="specbox-tx1-part">
-										 <span></span>
+										 <span>GeForce RTX 3090</span>
 									</div>
 								</div>
 								<div class="specbox-con-part darkmode-invert">
 									<div class="specbox-ico-part" style="background: url('/img/icons/list/ram.png') no-repeat center;">
 									</div>
 									<div class="specbox-tx1-part">
-										 <span></span>
+										 <span>16GB DDR4 (3400MHz)</span>
 									</div>
 								</div>
 								<div class="specbox-con-part darkmode-invert">
 									<div class="specbox-ico-part" style="background: url('/img/icons/list/os.png') no-repeat center;">
 									</div>
 									<div class="specbox-tx1-part">
-										 <span></span>
+										 <span>Windows</span>
 									</div>
 								</div>
 							</div>
