@@ -1,11 +1,11 @@
 {
-  "name": "RPCS3 - PlayStation 3 Emulator",
-  "short_name": "RPCS3",
+  "name": "Pancake Faces Project",
+  "short_name": "PancakeFaces",
   "start_url": "/",
   "display": "standalone",
   "background_color" : "#4e34c9" ,
   "theme_color" : "#4e34c9" ,
-  "description": "Open-source PlayStation 3 Emulator",
+  "description": "Проект представляет из себя открытый доступ к разработкам нашей команды в различных сферах",
   "icons": [
     {
       "src": "/img/meta/mobile/48.png",
