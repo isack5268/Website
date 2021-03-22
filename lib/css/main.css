@@ -2634,6 +2634,20 @@ a:hover {
 	margin-right: 5px;
 	margin-left: 5px;
 	border-radius: 100%;
+	background: url("/img/users/avatars/daginatsuko.png") center center / cover no-repeat;
+	border: 2px solid rgb(255, 255, 255);
+	box-shadow: rgba(0, 0, 0, 0.2) 0px 0px 10px 0px;
+	transition: all 0.2s ease-in-out 0s;
+}
+.footer-ico-developer2 {
+	position: relative;
+	top: 10px;
+	display: inline-block;
+	width: 26px;
+	height: 26px;
+	margin-right: 5px;
+	margin-left: 5px;
+	border-radius: 100%;
 	background: url("/img/users/avatars/helius.png") center center / cover no-repeat;
 	border: 2px solid rgb(255, 255, 255);
 	box-shadow: rgba(0, 0, 0, 0.2) 0px 0px 10px 0px;

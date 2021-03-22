@@ -121,11 +121,17 @@
 				<div class="footer-con-inner">
 					<div class="footer-con-foot">
 						<div class="footer-tx1-developer">
-							<span>Дизайн сайта бы создан </span>
+							<span>Дизайн сайта бы создан: </span>
 							<a href="/about" target="_blank">
-							<span class="footer-ico-developer">
+							<span class="footer-ico-developer2">
 							</span>
 							<span>Helius</span>
+							</a>
+							<span>; </span>
+							<a href="https://daginatsuko.com" target="_blank">
+							<span class="footer-ico-developer">
+							</span>
+							<span>DAGINATSUKO</span>
 							</a>
 						</div>
 						<div class="footer-tx2-developer">
