@@ -95,7 +95,7 @@
 									<div class="specbox-ico-part" style="background: url('/img/icons/list/cpu.png') no-repeat center;">
 									</div>
 									<div class="specbox-tx1-part">
-										 <span>AMD Ryzen 1600 (3.2GHz)</span>
+										 <span>AMD Ryzen 5 1600 (3.2GHz)</span>
 									</div>
 								</div>
 								<div class="specbox-con-part darkmode-invert">
