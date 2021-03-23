@@ -149,10 +149,10 @@
 						<div class="user-con-specsheet">
 							<div class="user-con-specbox">
 								<div class="specbox-con-part darkmode-invert">
-									<div class="specbox-ico-part" style="background: url('/img/icons/list/desctop.png') no-repeat center;">
+									<div class="specbox-ico-part" style="background: url('/img/icons/list/desktop.png') no-repeat center;">
 									</div>
 									<div class="specbox-tx1-part">
-										 <span>Desctop</span>
+										 <span>Desktop</span>
 									</div>
 								</div>
 								<div class="specbox-con-part darkmode-invert">
