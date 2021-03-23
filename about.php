@@ -149,31 +149,31 @@
 						<div class="user-con-specsheet">
 							<div class="user-con-specbox">
 								<div class="specbox-con-part darkmode-invert">
-									<div class="specbox-ico-part" style="background: url('/img/icons/list/laptop.png') no-repeat center;">
+									<div class="specbox-ico-part" style="background: url('/img/icons/list/desctop.png') no-repeat center;">
 									</div>
 									<div class="specbox-tx1-part">
-										 <span>Laptop</span>
+										 <span>Desctop</span>
 									</div>
 								</div>
 								<div class="specbox-con-part darkmode-invert">
 									<div class="specbox-ico-part" style="background: url('/img/icons/list/cpu.png') no-repeat center;">
 									</div>
 									<div class="specbox-tx1-part">
-										 <span>Intel Core i5 2430M (2.4GHz)</span>
+										 <span>AMD Ryzen 5 3600 (3.8GHz)</span>
 									</div>
 								</div>
 								<div class="specbox-con-part darkmode-invert">
 									<div class="specbox-ico-part" style="background: url('/img/icons/list/gpu.png') no-repeat center;">
 									</div>
 									<div class="specbox-tx1-part">
-										 <span>Integrated</span>
+										 <span>NVIDIA 1060 (3GB)</span>
 									</div>
 								</div>
 								<div class="specbox-con-part darkmode-invert">
 									<div class="specbox-ico-part" style="background: url('/img/icons/list/ram.png') no-repeat center;">
 									</div>
 									<div class="specbox-tx1-part">
-										 <span>4GB DDR3 (1333MHz)</span>
+										 <span>16GB DDR4 (3200MHz)</span>
 									</div>
 								</div>
 								<div class="specbox-con-part darkmode-invert">
