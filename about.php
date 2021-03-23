@@ -166,7 +166,7 @@
 									<div class="specbox-ico-part" style="background: url('/img/icons/list/gpu.png') no-repeat center;">
 									</div>
 									<div class="specbox-tx1-part">
-										 <span>NVIDIA 1060 (3GB)</span>
+										 <span>NVIDIA GeForce GTX 1060 (3GB)</span>
 									</div>
 								</div>
 								<div class="specbox-con-part darkmode-invert">
