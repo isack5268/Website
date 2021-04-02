@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en-US">
 <head>
-<title>Pancake Faces Project</title>
+<title>Pancake Faces</title>
 <meta charset="utf-8">
 <meta name="description" content="Pancake Faces project ялвляется open source проектом, предоставляющим в открытый доступ свои разработки в игровом движке Unity.">
 <meta name="keywords" content="pancake faces, unity, open source, разработки, development, 2d, windows, project, home">
@@ -73,7 +73,7 @@
 					</div>
 				</div>
 				<div class='landing-con-right content-remove '>
-					<div class='landing-img-hero' style="background: url(/img/graphics/landing/index.png) no-repeat center; background-size: contain;">
+					<div class='landing-img-hero' style="background: url(/img/graphics/landing/index.gif) no-repeat center; background-size: contain;">
 					</div>
 				</div>
 			</div>

@@ -47,7 +47,7 @@
 		<div class="settings-menu-ico-darkmode darkmode-invert">
 		</div>
 		<div class="settings-menu-btn-button btn-darkmode">
-			<span>Toggle Dark Mode</span>
+			<span>Toggle Light Mode</span>
 		</div>
 	</div>
 	<div class="settings-menu-con-wrapper toggle-transparency">
