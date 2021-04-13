@@ -134,6 +134,11 @@
 				<span>GitHub</span>
 			</div>
 			</a>
+			<a href='https://vk.com/pancakefaces' target="_blank">
+			<div class="menu-btn-select">
+				<span>VK</span>
+			</div>
+			</a>
 			<a href='https://discord.gg/myXSXgDe7F' target="_blank">
 			<div class="menu-btn-select">
 				<span>Discord</span>
@@ -191,6 +196,11 @@
 				<a href="https://github.com/isack5268/Unity2D-projects" target="_blank">
 				<div class='mobile-menu-btn-select'>
 					<span>GitHub</span>
+				</div>
+				</a>
+				<a href="https://vk.com/pancakefaces" target="_blank">
+				<div class='mobile-menu-btn-select'>
+					<span>VK</span>
 				</div>
 				</a>
 				<a href="https://discord.gg/myXSXgDe7F" target="_blank">
