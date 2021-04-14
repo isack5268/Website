@@ -40,60 +40,7 @@
 		</div>
 	</div>
 </div>
-<div class="theme-btn-close toggle-theme">
-</div>
-<div class="settings-menu-con-outer settings-submenu">
-<div class="settings-menu-con-wrapper toggle-darkmode settings-menu-upper">
-		<div class="settings-menu-ico-darkmode darkmode-invert">
-		</div>
-		<div class="settings-menu-btn-button btn-darkmode">
-			<span>Toggle Light Mode</span>
-		</div>
-	</div>
-	<div class="settings-menu-con-wrapper toggle-transparency">
-		<div class="settings-menu-ico-transparency darkmode-invert">
-		</div>
-		<div class="settings-menu-btn-button btn-transparency">
-			<span>Transparency - On</span>
-		</div>
-	</div>
-	<div class="settings-menu-con-wrapper toggle-particles">
-		<div class="settings-menu-ico-particles darkmode-invert">
-		</div>
-		<div class="settings-menu-btn-button btn-particles">
-			<span>Particles - On</span>
-		</div>
-	</div>
-	<div class="settings-menu-con-wrapper toggle-pulsate">
-		<div class="settings-menu-ico-pulsate darkmode-invert">
-		</div>
-		<div class="settings-menu-btn-button btn-pulsate">
-			<span>Pulsate - On</span>
-		</div>
-	</div>
-	<div class="settings-menu-con-wrapper toggle-waves">
-		<div class="settings-menu-ico-waves darkmode-invert">
-		</div>
-		<div class="settings-menu-btn-button btn-waves">
-			<span>Waves - On</span>
-		</div>
-	</div>
-	<div class="settings-menu-con-wrapper toggle-theme settings-menu-lower" style="border-top: solid 1px rgba(0,0,0,.02);">
-		<div class="settings-menu-ico-theme darkmode-invert">
-		</div>
-		<div class="settings-menu-btn-button btn-theme">
-			<span>Change Theme</span>
-		</div>
-	</div>
-</div>
 <div class='menu-con-container'>
-	<div class="menu-con-backdrop">
-	</div>
-	<div class="menu-btn-settings toggle-settings">
-		<div class="menu-tx1-settings">
-			<span>Настройки</span>
-		</div>
-	</div>
 	<div class="menu-con-outer">
 		<div class="menu-con-inner">
 			<div class="menu-con-logo">
@@ -117,6 +64,11 @@
 			<a href='/quickstart'>
 			<div class="menu-btn-select">
 				<span>Разработка</span>
+			</div>
+			</a>
+			<a href='/store'>
+			<div class="menu-btn-select">
+				<span>Магазин</span>
 			</div>
 			</a>
 			<a href='/roadmap'>
@@ -176,6 +128,11 @@
 				<a href="/quickstart">
 				<div class='mobile-menu-btn-select'>
 					<span>Разработка</span>
+				</div>
+				</a>
+				<a href='/store'>
+				<div class="mobile-menu-btn-select">
+					<span>Магазин</span>
 				</div>
 				</a>
 				<a href="/roadmap">

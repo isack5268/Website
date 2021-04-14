@@ -37,10 +37,10 @@
 	</div>
 	<div class="page-con-container">
 		<div class="page-in-container">
-			<div class='container-con-block darkmode-block'>
+			<div class='container-con-block'>
 				<div class='container-con-wrapper'>
                     <div id="my-store-58323061"></div>
-                    <div class="darkmode-txt">
+                    <div>
                         <script data-cfasync="false" type="text/javascript" src="https://app.ecwid.com/script.js?58323061&data_platform=code&data_date=2021-04-14" charset="utf-8"></script><script type="text/javascript"> xProductBrowser("categoriesPerRow=3","views=grid(20,3) list(60) table(60)","categoryView=grid","searchView=list","id=my-store-58323061");</script>
                     </div>
 				</div>
