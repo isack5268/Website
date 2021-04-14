@@ -48,10 +48,9 @@
 						В процессе сборки возникла идея отказаться от идеи "картошки" и собрать всю конструкцию в компактный кубик и избавиться от кнопок и выклчателей, заменив их на систему потрясывания (условно, как в 8ball)</p>
 					</div>
                     <div class='blog-img'>
-                    	<img src="https://sun9-31.userapi.com/impg/fixsKwxUPze5Wmo85dMoPf9fBL6FyMGxGj3AnA/-ZXGGKwQwog.jpg?size=200x267&quality=96&sign=3b67813409a5a21b75a2cae7a9648bf2&type=album" hspace="5" vspace="5">
-						<img src="https://sun9-11.userapi.com/impg/wu4ip2qhay-TvKFoJOZqAb8seE5t0PtAl0MY0g/ckCgUL9gmK0.jpg?size=200x267&quality=96&sign=c2cabddf1d87400bd83ed2979b2c255d&type=album" hspace="5" vspace="5">
-						<img src="https://sun9-2.userapi.com/impg/3PMKUzXiKX0tuH7FpmGhZRV_dZQ0LW2v-MZ1FQ/Y2iK-LGMUho.jpg?size=200x267&quality=96&sign=bc45f221d2cc9db60edb87eaf8917211&type=album" hspace="5" vspace="5">
-						<img src="https://sun9-51.userapi.com/impg/BAE-zfR8X8RkBuLGBI5VvEDiA-Atia57SN1i9A/RwUwO36-IXQ.jpg?size=200x267&quality=96&sign=9b73c5f529dbd5cc393c1b98a8ebcc7d&type=album" hspace="5" vspace="5">
+						<img src="https://sun9-55.userapi.com/impg/l4eLtkiHVZb6PYhvv4pztK87BjSTu-DwYtEevw/8Es2HaNYQ2I.jpg?size=200x267&quality=96&sign=dea31f415df1a50057e3698c069d9124&type=album" hspace="5" vspace="5">
+                    	<img src="https://sun9-33.userapi.com/impg/LpEK9SIpsRjwn68RriHtDyDIq8jgYYr-UhMzVQ/EHPt3SMQV48.jpg?size=200x150&quality=96&sign=37c2479ed9e7c252bc0b05dabdf35d85&type=album" hspace="5" vspace="5">
+						<img src="https://sun9-11.userapi.com/impg/mnfAY2UiY1BAyUz-JbYxIUHmDANt_uKWJ4gmNA/nZfnD2kuOVE.jpg?size=200x150&quality=96&sign=f6bebad7a53a08aca516d1f3441c793a&type=album" hspace="5" vspace="5">
                     </div>
 					<div class='container-tx3-block darkmode-txt'>
 						<p>21.03.2021</p>
