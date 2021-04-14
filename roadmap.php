@@ -22,6 +22,7 @@
 
 <?php include 'lib/module/sys-js.php';?>
 
+<script type="text/javascript" src="https://vk.com/js/api/openapi.js?169"></script>
 </head>
 
 <body>
@@ -104,12 +105,15 @@
 				</div>
 			</div>			
 		</div>
-
 	</div>
-
 </div>
 
 </div>
+<div id="vk_community_messages">
+	<script type="text/javascript">
+		VK.Widgets.CommunityMessages("vk_community_messages", 191834852, {tooltipButtonText: "Есть вопрос?"});
+	</script>
+<div>
 
 <?php include 'lib/module/ui-main-footer.php';?>
 

@@ -7,6 +7,7 @@
 <?php include 'lib/module/sys-meta.php';?>
 <?php include 'lib/module/sys-css.php';?>
 <?php include 'lib/module/sys-js.php';?>
+<script type="text/javascript" src="https://vk.com/js/api/openapi.js?169"></script>
 </head>
 <body style="background: #000;">
 <?php include 'lib/module/sys-php.php';?>
@@ -33,6 +34,11 @@
 			</div>
 		</div>
 	</div>
+	<div id="vk_community_messages">
+		<script type="text/javascript">
+			VK.Widgets.CommunityMessages("vk_community_messages", 191834852, {tooltipButtonText: "Есть вопрос?"});
+		</script>
+	<div>
 </div>
 </body>
 </html>

@@ -10,6 +10,7 @@
 <?php include 'lib/module/sys-meta.php';?>
 <?php include 'lib/module/sys-css.php';?>
 <?php include 'lib/module/sys-js.php';?>
+<script type="text/javascript" src="https://vk.com/js/api/openapi.js?169"></script>
 </head>
 <body>
 <?php include 'lib/module/sys-php.php';?>
@@ -83,6 +84,11 @@
 			</div>
 		</div>
 	</div>
+	<div id="vk_community_messages">
+		<script type="text/javascript">
+			VK.Widgets.CommunityMessages("vk_community_messages", 191834852, {tooltipButtonText: "Есть вопрос?"});
+		</script>
+	<div>
 	<?php include 'lib/module/ui-main-footer.php';?>
 </div>
 </body>
