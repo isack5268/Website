@@ -84,12 +84,12 @@
 			</div>
 		</div>
 	</div>
+	<?php include 'lib/module/ui-main-footer.php';?>
 	<div id="vk_community_messages">
 		<script type="text/javascript">
 			VK.Widgets.CommunityMessages("vk_community_messages", 191834852, {tooltipButtonText: "Есть вопрос?"});
 		</script>
 	<div>
-	<?php include 'lib/module/ui-main-footer.php';?>
 </div>
 </body>
 </html>
