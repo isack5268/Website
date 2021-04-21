@@ -8,6 +8,15 @@
 <meta name="author" content="Pancake Faces">
 <meta name="copyright" content="Pancake Faces">
 <meta name="google-site-verification" content="Oc72qJoA7SXyjRC_VswDKzvNJ1i7yr9zz7YdW2UU04M"/>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-N45C796T7H"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-N45C796T7H');
+</script>
 <meta name="yandex-verification" content="e823e51fc442e0b3"/>
 <?php include 'lib/module/sys-meta.php';?>
 <?php include 'lib/module/sys-css.php';?>
