@@ -1,10 +1,10 @@
 <!doctype html>
-<html lang="en-US">
+<html lang="ru">
 <head>
 <title>Разработка</title>
 <meta charset="utf-8">
 <meta name="description" content="Pancake Faces project является open source проектом, предоставляющим в открытый доступ свои разработки в игровом движке Unity.">
-<meta name="keywords" content="pancake faces, unity, open source, разработки, development, 2d, windows, project, development">
+<meta name="keywords" content="pancake, faces, microcontrollers, unity, open source, development, 2d, project, разработка, микроконтроллеры, юнити, проект">
 <meta name="author" content="Pancake Faces">
 <meta name="copyright" content="Pancake Faces">
 <?php include 'lib/module/sys-meta.php';?>

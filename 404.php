@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en-US">
+<html lang="ru">
 <head>
 <title>Pancake Faces 404 error</title>
 <meta charset="utf-8">
