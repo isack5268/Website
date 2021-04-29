@@ -18,10 +18,10 @@
 <meta property="og:url" content="https://pancakefaces.ru/"/>
 <meta property="og:type" content="website"/>
 <meta property="og:title" content="Pancake Faces project"/>
-<meta property="og:description" content="Pancake Faces project является open source проектом, предоставляющим в открытый доступ свои разработки в игровом движке Unity."/>
+<meta property="og:description" content="Pancake Faces project является open source проектом, предоставляющим в открытый доступ свои разработки в различных IT сферах."/>
 <meta property="og:image" content="https://pancakefaces.ru/img/meta/mobile/152.png"/>
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:site" content="@IzackMarck"/>
 <meta name="twitter:title" content="Pancake Faces project"/>
 <meta name="twitter:image" content="https://pancakefaces.ru/img/meta/mobile/152.png"/>
-<meta name="twitter:description" content="Pancake Faces project является open source проектом, предоставляющим в открытый доступ свои разработки в игровом движке Unity."/>
+<meta name="twitter:description" content="Pancake Faces project является open source проектом, предоставляющим в открытый доступ свои разработки в различных IT сферах."/>

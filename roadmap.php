@@ -3,7 +3,7 @@
 <head>
 <title>Планы на будущее</title>
 <meta charset="utf-8">
-<meta name="description" content="Pancake Faces project является open source проектом, предоставляющим в открытый доступ свои разработки в игровом движке Unity.">
+<meta name="description" content="На этой странице Вы можете найти будущие планы и цели нашей команды, а также предстоящие проекты.">
 <meta name="keywords" content="pancake, faces, microcontrollers, unity, open source, development, 2d, project, разработка, микроконтроллеры, юнити, проект, plans, планы">
 <meta name="author" content="Pancake Faces">
 <meta name="copyright" content="Pancake Faces">
@@ -52,7 +52,7 @@
 			<div class='banner-tx2-title fade-up-onstart'>
 
 				<p>
-					 Идеи нашего проекта, которые мы хотим выполнить в ближайшем будущем 
+					На этой странице Вы можете найти будущие планы и цели нашей команды, а также предстоящие проекты 
 				</p>
 
 			</div>

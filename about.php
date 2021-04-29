@@ -3,7 +3,7 @@
 <head>
 <title>Команда</title>
 <meta charset="utf-8">
-<meta name="description" content="Pancake Faces project является open source проектом, предоставляющим в открытый доступ свои разработки в игровом движке Unity.">
+<meta name="description" content="Если Вас заинтересовал проект - на этой странице вы сможете получше узнать нашу команду.">
 <meta name="keywords" content="pancake, faces, microcontrollers, unity, open source, development, 2d, project, разработка, микроконтроллеры, юнити, проект, about us, о нас">
 <meta name="author" content="Pancake Faces">
 <meta name="copyright" content="Pancake Faces">
@@ -32,7 +32,7 @@
 			</div>
 			<div class='banner-tx2-title fade-up-onstart'>
 				<p>
-					 Немного слов о нашем проекте и членах команды
+					Если Вас заинтересовал проект - на этой странице вы сможете получше узнать нашу команду
 				</p>
 			</div>
 		</div>

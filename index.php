@@ -3,7 +3,7 @@
 <head>
 <title>Pancake Faces</title>
 <meta charset="utf-8">
-<meta name="description" content="Pancake Faces project является open source проектом, предоставляющим в открытый доступ свои разработки в игровом движке Unity.">
+<meta name="description" content="Pancake Faces project является open source проектом, предоставляющим в открытый доступ свои разработки в различных IT сферах.">
 <meta name="keywords" content="pancake, faces, microcontrollers, unity, open source, development, 2d, project, разработка, микроконтроллеры, юнити, проект, home, дом">
 <meta name="author" content="Pancake Faces">
 <meta name="copyright" content="Pancake Faces">

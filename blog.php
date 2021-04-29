@@ -3,7 +3,7 @@
 <head>
 <title>Блог</title>
 <meta charset="utf-8">
-<meta name="description" content="Pancake Faces project является open source проектом, предоставляющим в открытый доступ свои разработки в игровом движке Unity.">
+<meta name="description" content="Представленная страница содержит в себе ленту новостей проекта, также в ней будут публиковаться различные анонсы и материалы нашей команды.">
 <meta name="keywords" content="pancake, faces, microcontrollers, unity, open source, development, 2d, project, разработка, микроконтроллеры, юнити, проект, blog, блог">
 <meta name="author" content="Pancake Faces">
 <meta name="copyright" content="Pancake Faces">
@@ -31,7 +31,7 @@
 			</div>
 			<div class='banner-tx2-title fade-up-onstart'>
 				<p>
-					 Тут будет публиковаться наша отчетность
+				Представленная страница содержит в себе ленту новостей проекта, также в ней будут публиковаться различные анонсы и материалы нашей команды
 				</p>
 			</div>
 		</div>

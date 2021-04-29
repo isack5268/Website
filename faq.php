@@ -3,7 +3,7 @@
 <head>
 <title>FAQs</title>
 <meta charset="utf-8">
-<meta name="description" content="Pancake Faces project является open source проектом, предоставляющим в открытый доступ свои разработки в игровом движке Unity.">
+<meta name="description" content="Эта страница создана с целью ответить на интересующие Вас вопросы. Если Вы не найдете ответов, то пожалуйста напишите нам на любом ресурсе.">
 <meta name="keywords" content="pancake, faces, microcontrollers, unity, open source, development, 2d, project, разработка, микроконтроллеры, юнити, проект, faq, вопросы">
 <meta name="author" content="Pancake Faces">
 <meta name="copyright" content="Pancake Faces">
@@ -30,7 +30,7 @@
 			</div>
 			<div class='banner-tx2-title fade-up-onstart'>
 				<p>
-					 Вопросы которые могут у вас возникнуть
+				Эта страница создана с целью ответить на интересующие Вас вопросы. Если Вы не найдете ответов, то пожалуйста напишите нам на любом ресурсе
 				</p>
 			</div>
 		</div>
@@ -40,14 +40,14 @@
 			<div class='container-con-block darkmode-block'>
 				<div class='container-con-wrapper'>
 					<div class='container-tx1-block darkmode-txt'>
-						<h2>Часто задаваемые вопросы!</h2>
+						<h2>Часто задаваемые вопросы:</h2>
 					</div>
 					<div class='container-tx2-block darkmode-txt'>
 						<p>
 							<b>Как с нами связаться?</b>
 						</p>
 						<p>
-							 • На главной странице есть ссылка на наш <a href="https://discord.gg/myXSXgDe7F" target="_blank"> Discord </a>
+							 • Ты можешь связаться с нами в <a href="https://vk.com/pancakefaces" target="_blank"> VK </a>;
 						</p>
 					</div>
 					<br>
@@ -56,7 +56,7 @@
 							<b>Можно ли попасть в нашу команду?</b>
 						</p>
 						<p>
-							 • Конечно, можно. Ищи в разделе <a href="/about"> Команда </a>
+							 • Конечно можно, если у тебя есть желание, возможности и амбиции, то мы обязательно тебя примем! Надо только связаться с нами в <a href="https://vk.com/pancakefaces" target="_blank"> VK </a>;
 						</p>
 					</div>
 					<br>
@@ -65,10 +65,10 @@
 							<b>Я нашел на сайте баг, что с этим делать?</b>
 						</p>
 						<p>
-							 • В первую очередь, напиши нам на GitHub в разделе <a href="https://github.com/isack5268/PancakeFaces-projects/issues" target="_blank"> Issues </a>
+							 • В первую очередь, напиши нам на GitHub в разделе <a href="https://github.com/isack5268/Website/issues" target="_blank"> Issues </a>;
 						</p>
 						<p>
-							 • Ты можешь написать нам о нем в <a href="https://discord.gg/myXSXgDe7F" target="_blank"> Discord </a> или <a href="https://vk.com/pancakefaces" target="_blank"> VK </a>
+							 • Так же ты можешь написать нам о нем в <a href="https://vk.com/pancakefaces" target="_blank"> VK </a>;
 						</p>
 					</div>
 					<br>
@@ -77,7 +77,7 @@
 							<b>Могу ли я предложить  вам свой проект?</b>
 						</p>
 						<p>
-							 • Мы будем рады рассмотреть твою идею!!!
+							 • Мы будем очень рады рассмотреть твою идею!!! Только надо связаться с нами в <a href="https://vk.com/pancakefaces" target="_blank"> VK </a>;
 						</p>
 					</div>
 				</div>

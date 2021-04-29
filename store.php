@@ -3,7 +3,7 @@
 <head>
 <title>Магазин</title>
 <meta charset="utf-8">
-<meta name="description" content="Pancake Faces project является open source проектом, предоставляющим в открытый доступ свои разработки в игровом движке Unity.">
+<meta name="description" content="Pancake Faces Store - магазин девайсов, разработанных и созданных силами сотрудников нашего проекта.">
 <meta name="keywords" content="pancake, faces, microcontrollers, unity, open source, development, 2d, project, разработка, микроконтроллеры, юнити, проект, store, магазин">
 <meta name="author" content="Pancake Faces">
 <meta name="copyright" content="Pancake Faces">
@@ -30,7 +30,7 @@
 			</div>
 			<div class='banner-tx2-title fade-up-onstart'>
 				<p>
-					 Тут будут находиться наши товары
+					Pancake Faces Store - магазин девайсов, разработанных и созданных силами сотрудников нашего проекта
 				</p>
 			</div>
 		</div>
